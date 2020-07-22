@@ -1,0 +1,3 @@
+- Routing-Algorithmus verbessern
+- Code optimieren
+- freie bewegen, keine Tile-Schritte
